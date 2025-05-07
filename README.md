@@ -56,7 +56,7 @@
   ![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  
    ## Walkthrough Video
-   A demo of the application can be found at the following link: https://drive.google.com/file/d/1USuTK3OpDaSEx6LQWmUx_XwgnUdPOKol/view
+   A demo of the application can be found at the following link: 
  
    ## URL Link
    There is no URL link to this application.
@@ -67,7 +67,8 @@
    ## Contributors
    Thank you to the professor and TA's for all you help with this challenge!
  
-   1. Joem Casusi
+   1. Joem Casusi - Tutor
+   2. Quentin Jones - TA
  
    ## Tests
  
